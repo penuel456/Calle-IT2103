@@ -6,7 +6,7 @@
 	<div class='col-md-8 col-md-offset 2'>
 		<a href='index.php'>
 			<button class='btn btn-danger'>
-				<span class='glyphicon glyphicon-user'></span>
+				<i class='glyphicon glyphicon-user'></i>
 				I HAVE AN APPLE, I HAVE A PEN. UGH! APPLE PEN!
 			</button>
 		</a>
